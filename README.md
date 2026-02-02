@@ -2,6 +2,9 @@
 
 **Functions & Parameter Passing: Employee Performance Scores**
 
+## Video Link
+This is my video subbmission for assignment 4: https://youtu.be/8UF5EoH-_ZE
+
 ## Program Goal
 Create a C++ program that manages 10 employee performance scores (0–100) using functions with **pass by value**, **pass by pointer**, and **pass by reference**.
 
